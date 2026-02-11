@@ -1,3 +1,6 @@
+import java.util.Properties
+import java.io.FileInputStream
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
@@ -24,15 +27,15 @@ android {
     
     signingConfigs {
         create("release") {
-            val localProperties = File(rootProject.projectDir, "local.properties")
-            if (localProperties.exists()) {
-                val properties = java.util.Properties()
-                properties.load(localProperties.inputStream())
+            val localPropertiesFile = rootProject.file("local.properties")
+            if (localPropertiesFile.exists()) {
+                val localProperties = Properties()
+                localProperties.load(FileInputStream(localPropertiesFile))
                 
-                storeFile = file(properties.getProperty("KEYSTORE_FILE") ?: "release-keystore.jks")
-                storePassword = properties.getProperty("KEYSTORE_PASSWORD")
-                keyAlias = properties.getProperty("KEY_ALIAS")
-                keyPassword = properties.getProperty("KEY_PASSWORD")
+                storeFile = file(localProperties.getProperty("KEYSTORE_FILE") ?: "release-keystore.jks")
+                storePassword = localProperties.getProperty("KEYSTORE_PASSWORD")
+                keyAlias = localProperties.getProperty("KEY_ALIAS")
+                keyPassword = localProperties.getProperty("KEY_PASSWORD")
             } else {
                 storeFile = file(System.getenv("KEYSTORE_FILE") ?: "release-keystore.jks")
                 storePassword = System.getenv("KEYSTORE_PASSWORD")
