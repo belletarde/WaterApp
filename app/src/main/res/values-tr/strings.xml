@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Take Water</string>
+    <string name="app_name_full">Take Water - Su Takipçisi ve Hidrasyon Hatırlatıcısı</string>
+    
+    <string name="daily_goal">Günlük Hedef</string>
+    <string name="consumed">Tüketilen</string>
+    <string name="add_water">Su Ekle</string>
+    <string name="history">Geçmiş</string>
+    <string name="reports">Raporlar</string>
+    <string name="settings">Ayarlar</string>
+    
+    <string name="small_cup">Küçük Bardak</string>
+    <string name="medium_cup">Orta Bardak</string>
+    <string name="large_cup">Büyük Bardak</string>
+    <string name="custom_cup">Özel Bardak</string>
+    <string name="ml">ml</string>
+    
+    <string name="create_custom_cup">Özel Bardak Oluştur</string>
+    <string name="cup_name">Bardak Adı</string>
+    <string name="cup_volume">Hacim (ml)</string>
+    <string name="cancel">İptal</string>
+    <string name="save">Kaydet</string>
+    <string name="delete">Sil</string>
+    
+    <string name="select_date">Tarih Seç</string>
+    <string name="no_data">Bu gün için veri yok</string>
+    <string name="total">Toplam</string>
+    
+    <string name="weekly_chart">Haftalık Grafik</string>
+    <string name="hourly_consumption">Saatlik Tüketim</string>
+    <string name="most_active_hours">En Aktif Saatler</string>
+    <string name="least_active_hours">En Az Aktif Saatler</string>
+    <string name="hour_format" formatted="false">%d:00 - %d:00</string>
+    <string name="average_per_day">Günlük ortalama</string>
+    
+    <string name="daily_goal_setting">Günlük Hedef (ml)</string>
+    <string name="language">Dil</string>
+    <string name="manage_cups">Özel Bardakları Yönet</string>
+    
+    <string name="monday">Pzt</string>
+    <string name="tuesday">Sal</string>
+    <string name="wednesday">Çar</string>
+    <string name="thursday">Per</string>
+    <string name="friday">Cum</string>
+    <string name="saturday">Cmt</string>
+    <string name="sunday">Paz</string>
+    
+    <string name="notification_title">Su İçme Hatırlatıcısı</string>
+    <string name="notification_message">Su içme zamanı!</string>
+    <string name="notification_channel_name">Su Hatırlatıcıları</string>
+    <string name="notification_channel_description">Su içmenizi hatırlatmak için bildirimler</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="enable_notifications">Bildirimleri Etkinleştir</string>
+    <string name="notification_interval">Bildirim Aralığı</string>
+    <string name="start_time">Başlangıç Saati</string>
+    <string name="end_time">Bitiş Saati</string>
+    <string name="edit_goal">Hedefi Düzenle</string>
+    <string name="add_cup">Bardak Ekle</string>
+    <string name="tap_to_add_water">Su eklemek için bardağa dokunun</string>
+    
+    <string name="welcome">Su Takipçisine Hoş Geldiniz!</string>
+    <string name="onboarding_title_1">Hidrasyonunuzu Koruyun</string>
+    <string name="onboarding_desc_1">Su sağlığınız için gereklidir. Vücut sıcaklığını düzenlemeye, besinleri taşımaya ve organ fonksiyonlarını korumaya yardımcı olur.</string>
+    <string name="onboarding_title_2">Kişiselleştirilmiş Hedef</string>
+    <string name="onboarding_desc_2">Günlük su alımınız kilonuza ve fiziksel aktivite seviyenize bağlıdır. Hadi ideal hedefinizi hesaplayalım!</string>
+    <string name="onboarding_title_3">Bilgileriniz</string>
+    <string name="weight_kg">Kilo (kg)</string>
+    <string name="activity_level">Aktivite Seviyesi</string>
+    <string name="activity_low">Düşük</string>
+    <string name="activity_moderate">Orta</string>
+    <string name="activity_high">Yüksek</string>
+    <string name="activity_low_desc">Az veya hiç egzersiz yok</string>
+    <string name="activity_moderate_desc">Haftada 3-5 gün egzersiz</string>
+    <string name="activity_high_desc">Haftada 6-7 gün yoğun egzersiz</string>
+    <string name="next">İleri</string>
+    <string name="finish">Bitir</string>
+    <string name="skip">Atla</string>
+    <string name="your_daily_goal">Günlük hedefiniz:</string>
+    <string name="based_on_calculation">Kilonuza ve aktivite seviyenize göre</string>
+    <string name="benefit_temperature">Sıcaklığı düzenler</string>
+    <string name="benefit_nutrients">Besinleri taşır</string>
+    <string name="benefit_organs">Sağlıklı organları korur</string>
+    <string name="hours_label">saat</string>
+    <string name="hour_label">saat</string>
+    <string name="drag_to_adjust">Su seviyesini ayarlamak için sürükleyin</string>
+    <string name="personal_info">Kişisel Bilgiler</string>
+    <string name="weight">Kilo</string>
+    <string name="edit_weight">Kiloyu Düzenle</string>
+    <string name="edit">Düzenle</string>
+    <string name="low">Düşük</string>
+    <string name="moderate">Orta</string>
+    <string name="high">Yüksek</string>
+    <string name="stay_hydrated">Hidrasyonunuzu Koruyun</string>
+    <string name="ml_unit">ml</string>
+    <string name="kg_unit">kg</string>
+    <string name="time_format">%d:00</string>
+</resources>

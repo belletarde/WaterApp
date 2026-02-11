@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Take Water</string>
+    <string name="app_name_full">Take Water - Rastreador de Água &amp; Lembrete de Hidratação</string>
+    
+    <string name="daily_goal">Meta Diária</string>
+    <string name="consumed">Consumido</string>
+    <string name="add_water">Adicionar Água</string>
+    <string name="history">Histórico</string>
+    <string name="reports">Relatórios</string>
+    <string name="settings">Configurações</string>
+    
+    <!-- Cup Sizes -->
+    <string name="small_cup">Copo Pequeno</string>
+    <string name="medium_cup">Copo Médio</string>
+    <string name="large_cup">Copo Grande</string>
+    <string name="custom_cup">Copo Personalizado</string>
+    <string name="ml">ml</string>
+    
+    <!-- Custom Cup Dialog -->
+    <string name="create_custom_cup">Criar Copo Personalizado</string>
+    <string name="cup_name">Nome do Copo</string>
+    <string name="cup_volume">Volume (ml)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+    
+    <!-- History -->
+    <string name="select_date">Selecionar Data</string>
+    <string name="no_data">Sem dados para este dia</string>
+    <string name="total">Total</string>
+    
+    <!-- Reports -->
+    <string name="weekly_chart">Gráfico Semanal</string>
+    <string name="hourly_consumption">Consumo por Hora</string>
+    <string name="most_active_hours">Horários Mais Ativos</string>
+    <string name="least_active_hours">Horários Menos Ativos</string>
+    <string name="hour_format" formatted="false">%d:00 - %d:00</string>
+    <string name="average_per_day">Média por dia</string>
+    
+    <!-- Settings -->
+    <string name="daily_goal_setting">Meta Diária (ml)</string>
+    <string name="language">Idioma</string>
+    <string name="manage_cups">Gerenciar Copos Personalizados</string>
+    
+    <!-- Days of week -->
+    <string name="monday">Seg</string>
+    <string name="tuesday">Ter</string>
+    <string name="wednesday">Qua</string>
+    <string name="thursday">Qui</string>
+    <string name="friday">Sex</string>
+    <string name="saturday">Sáb</string>
+    <string name="sunday">Dom</string>
+    
+    <!-- Notifications -->
+    <string name="notification_title">Lembrete de Beber Água</string>
+    <string name="notification_message">Está na hora de beber água!</string>
+    <string name="notification_channel_name">Lembretes de Água</string>
+    <string name="notification_channel_description">Notificações para lembrar de beber água</string>
+    <string name="notifications">Notificações</string>
+    <string name="enable_notifications">Ativar Notificações</string>
+    <string name="notification_interval">Intervalo de Notificação</string>
+    <string name="start_time">Hora Inicial</string>
+    <string name="end_time">Hora Final</string>
+    <string name="edit_goal">Editar Meta</string>
+    <string name="add_cup">Adicionar Copo</string>
+    <string name="tap_to_add_water">Toque em um copo para adicionar água</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome">Bem-vindo ao Medidor de Água!</string>
+    <string name="onboarding_title_1">Mantenha-se Hidratado</string>
+    <string name="onboarding_desc_1">A água é essencial para sua saúde. Ela ajuda a regular a temperatura corporal, transportar nutrientes e manter o funcionamento dos órgãos.</string>
+    <string name="onboarding_title_2">Meta Personalizada</string>
+    <string name="onboarding_desc_2">Sua ingestão diária de água depende do seu peso e nível de atividade física. Vamos calcular sua meta ideal!</string>
+    <string name="onboarding_title_3">Suas Informações</string>
+    <string name="weight_kg">Peso (kg)</string>
+    <string name="activity_level">Nível de Atividade</string>
+    <string name="activity_low">Baixo</string>
+    <string name="activity_moderate">Moderado</string>
+    <string name="activity_high">Alto</string>
+    <string name="activity_low_desc">Pouco ou nenhum exercício</string>
+    <string name="activity_moderate_desc">Exercício 3-5 dias/semana</string>
+    <string name="activity_high_desc">Exercício intenso 6-7 dias/semana</string>
+    <string name="next">Próximo</string>
+    <string name="finish">Finalizar</string>
+    <string name="skip">Pular</string>
+    <string name="your_daily_goal">Sua meta diária:</string>
+    <string name="based_on_calculation">Baseado no seu peso e nível de atividade</string>
+    <string name="benefit_temperature">Regula temperatura</string>
+    <string name="benefit_nutrients">Transporta nutrientes</string>
+    <string name="benefit_organs">Mantém órgãos saudáveis</string>
+    <string name="hours_label">horas</string>
+    <string name="hour_label">hora</string>
+    <string name="drag_to_adjust">Arraste para ajustar o nível de água</string>
+    <string name="personal_info">Informações Pessoais</string>
+    <string name="weight">Peso</string>
+    <string name="edit_weight">Editar Peso</string>
+    <string name="edit">Editar</string>
+    <string name="low">Baixo</string>
+    <string name="moderate">Moderado</string>
+    <string name="high">Alto</string>
+    <string name="stay_hydrated">Mantenha-se Hidratado</string>
+    <string name="ml_unit">ml</string>
+    <string name="kg_unit">kg</string>
+    <string name="time_format">%d:00</string>
+</resources>

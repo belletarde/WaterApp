@@ -1,0 +1,16 @@
+## This file contains local configuration for the project
+## Copy this file to 'local.properties' and fill in your values
+## NEVER commit local.properties to Git!
+
+# Android SDK location
+sdk.dir=/path/to/your/Android/sdk
+
+# Keystore configuration for release builds
+# Generate keystore with: cd scripts && ./generate-keystore.sh
+KEYSTORE_FILE=release-keystore.jks
+KEYSTORE_PASSWORD=your_keystore_password_here
+KEY_ALIAS=take-water-key
+KEY_PASSWORD=your_key_password_here
+
+# Optional: Play Store API credentials (for automated uploads)
+# PLAY_STORE_JSON_KEY=/path/to/play-store-api-key.json

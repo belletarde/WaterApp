@@ -1,0 +1,95 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Keystore files (CRITICAL - Never commit!)
+*.jks
+*.keystore
+release-keystore.jks
+keystore.properties
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/misc.xml
+
+# Android Studio
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+*.hprof
+
+# NDK
+obj/
+
+# Android Profiling
+*.hprof
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Documentation files (keep only README.md and PRIVACY_POLICY.md)
+LAUNCH_SUMMARY.md
+PLAY_STORE_GUIDE.md
+RELEASE_CHECKLIST.md
+QUICK_COMMANDS.md
+README_LAUNCH.md
+ARCHITECTURE.md
+/store-listing/
+/scripts/
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Test results
+test-results/
+androidTest-results/
+
+# Signing files
+signing.properties

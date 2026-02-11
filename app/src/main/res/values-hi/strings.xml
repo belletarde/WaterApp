@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Take Water</string>
+    <string name="app_name_full">Take Water - पानी ट्रैकर और हाइड्रेशन रिमाइंडर</string>
+    
+    <string name="daily_goal">दैनिक लक्ष्य</string>
+    <string name="consumed">उपभोग किया</string>
+    <string name="add_water">पानी जोड़ें</string>
+    <string name="history">इतिहास</string>
+    <string name="reports">रिपोर्ट</string>
+    <string name="settings">सेटिंग्स</string>
+    
+    <string name="small_cup">छोटा कप</string>
+    <string name="medium_cup">मध्यम कप</string>
+    <string name="large_cup">बड़ा कप</string>
+    <string name="custom_cup">कस्टम कप</string>
+    <string name="ml">ml</string>
+    
+    <string name="create_custom_cup">कस्टम कप बनाएं</string>
+    <string name="cup_name">कप का नाम</string>
+    <string name="cup_volume">मात्रा (ml)</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सहेजें</string>
+    <string name="delete">हटाएं</string>
+    
+    <string name="select_date">तारीख चुनें</string>
+    <string name="no_data">इस दिन के लिए कोई डेटा नहीं</string>
+    <string name="total">कुल</string>
+    
+    <string name="weekly_chart">साप्ताहिक चार्ट</string>
+    <string name="hourly_consumption">प्रति घंटा खपत</string>
+    <string name="most_active_hours">सबसे सक्रिय घंटे</string>
+    <string name="least_active_hours">कम सक्रिय घंटे</string>
+    <string name="hour_format" formatted="false">%d:00 - %d:00</string>
+    <string name="average_per_day">प्रति दिन औसत</string>
+    
+    <string name="daily_goal_setting">दैनिक लक्ष्य (ml)</string>
+    <string name="language">भाषा</string>
+    <string name="manage_cups">कस्टम कप प्रबंधित करें</string>
+    
+    <string name="monday">सोम</string>
+    <string name="tuesday">मंगल</string>
+    <string name="wednesday">बुध</string>
+    <string name="thursday">गुरु</string>
+    <string name="friday">शुक्र</string>
+    <string name="saturday">शनि</string>
+    <string name="sunday">रवि</string>
+    
+    <string name="notification_title">पानी पीने की याद</string>
+    <string name="notification_message">पानी पीने का समय हो गया है!</string>
+    <string name="notification_channel_name">पानी रिमाइंडर</string>
+    <string name="notification_channel_description">पानी पीने की याद दिलाने के लिए सूचनाएं</string>
+    <string name="notifications">सूचनाएं</string>
+    <string name="enable_notifications">सूचनाएं सक्षम करें</string>
+    <string name="notification_interval">सूचना अंतराल</string>
+    <string name="start_time">प्रारंभ समय</string>
+    <string name="end_time">समाप्ति समय</string>
+    <string name="edit_goal">लक्ष्य संपादित करें</string>
+    <string name="add_cup">कप जोड़ें</string>
+    <string name="tap_to_add_water">पानी जोड़ने के लिए कप पर टैप करें</string>
+    
+    <string name="welcome">वॉटर ट्रैकर में आपका स्वागत है!</string>
+    <string name="onboarding_title_1">हाइड्रेटेड रहें</string>
+    <string name="onboarding_desc_1">पानी आपके स्वास्थ्य के लिए आवश्यक है। यह शरीर के तापमान को नियंत्रित करने, पोषक तत्वों को परिवहन करने और अंगों के कार्य को बनाए रखने में मदद करता है।</string>
+    <string name="onboarding_title_2">व्यक्तिगत लक्ष्य</string>
+    <string name="onboarding_desc_2">आपका दैनिक पानी का सेवन आपके वजन और शारीरिक गतिविधि स्तर पर निर्भर करता है। आइए अपना आदर्श लक्ष्य निर्धारित करें!</string>
+    <string name="onboarding_title_3">आपकी जानकारी</string>
+    <string name="weight_kg">वजन (kg)</string>
+    <string name="activity_level">गतिविधि स्तर</string>
+    <string name="activity_low">कम</string>
+    <string name="activity_moderate">मध्यम</string>
+    <string name="activity_high">उच्च</string>
+    <string name="activity_low_desc">कम या कोई व्यायाम नहीं</string>
+    <string name="activity_moderate_desc">सप्ताह में 3-5 दिन व्यायाम</string>
+    <string name="activity_high_desc">सप्ताह में 6-7 दिन तीव्र व्यायाम</string>
+    <string name="next">अगला</string>
+    <string name="finish">समाप्त</string>
+    <string name="skip">छोड़ें</string>
+    <string name="your_daily_goal">आपका दैनिक लक्ष्य:</string>
+    <string name="based_on_calculation">आपके वजन और गतिविधि स्तर के आधार पर</string>
+    <string name="benefit_temperature">तापमान नियंत्रित करता है</string>
+    <string name="benefit_nutrients">पोषक तत्व परिवहन करता है</string>
+    <string name="benefit_organs">स्वस्थ अंगों को बनाए रखता है</string>
+    <string name="hours_label">घंटे</string>
+    <string name="hour_label">घंटा</string>
+    <string name="drag_to_adjust">पानी का स्तर समायोजित करने के लिए खींचें</string>
+    <string name="personal_info">व्यक्तिगत जानकारी</string>
+    <string name="weight">वजन</string>
+    <string name="edit_weight">वजन संपादित करें</string>
+    <string name="edit">संपादित करें</string>
+    <string name="low">कम</string>
+    <string name="moderate">मध्यम</string>
+    <string name="high">उच्च</string>
+    <string name="stay_hydrated">हाइड्रेटेड रहें</string>
+    <string name="ml_unit">ml</string>
+    <string name="kg_unit">kg</string>
+    <string name="time_format">%d:00</string>
+</resources>

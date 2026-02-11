@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Take Water</string>
+    <string name="app_name_full">Take Water - Трекер Воды и Напоминание о Гидратации</string>
+    
+    <string name="daily_goal">Дневная Цель</string>
+    <string name="consumed">Потреблено</string>
+    <string name="add_water">Добавить Воду</string>
+    <string name="history">История</string>
+    <string name="reports">Отчеты</string>
+    <string name="settings">Настройки</string>
+    
+    <string name="small_cup">Маленький Стакан</string>
+    <string name="medium_cup">Средний Стакан</string>
+    <string name="large_cup">Большой Стакан</string>
+    <string name="custom_cup">Свой Стакан</string>
+    <string name="ml">мл</string>
+    
+    <string name="create_custom_cup">Создать Свой Стакан</string>
+    <string name="cup_name">Название Стакана</string>
+    <string name="cup_volume">Объем (мл)</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    
+    <string name="select_date">Выбрать Дату</string>
+    <string name="no_data">Нет данных за этот день</string>
+    <string name="total">Всего</string>
+    
+    <string name="weekly_chart">Недельный График</string>
+    <string name="hourly_consumption">Почасовое Потребление</string>
+    <string name="most_active_hours">Самые Активные Часы</string>
+    <string name="least_active_hours">Наименее Активные Часы</string>
+    <string name="hour_format" formatted="false">%d:00 - %d:00</string>
+    <string name="average_per_day">Среднее в день</string>
+    
+    <string name="daily_goal_setting">Дневная Цель (мл)</string>
+    <string name="language">Язык</string>
+    <string name="manage_cups">Управление Стаканами</string>
+    
+    <string name="monday">Пн</string>
+    <string name="tuesday">Вт</string>
+    <string name="wednesday">Ср</string>
+    <string name="thursday">Чт</string>
+    <string name="friday">Пт</string>
+    <string name="saturday">Сб</string>
+    <string name="sunday">Вс</string>
+    
+    <string name="notification_title">Напоминание о Воде</string>
+    <string name="notification_message">Пора пить воду!</string>
+    <string name="notification_channel_name">Напоминания о Воде</string>
+    <string name="notification_channel_description">Уведомления для напоминания о питье воды</string>
+    <string name="notifications">Уведомления</string>
+    <string name="enable_notifications">Включить Уведомления</string>
+    <string name="notification_interval">Интервал Уведомлений</string>
+    <string name="start_time">Время Начала</string>
+    <string name="end_time">Время Окончания</string>
+    <string name="edit_goal">Изменить Цель</string>
+    <string name="add_cup">Добавить Стакан</string>
+    <string name="tap_to_add_water">Нажмите на стакан, чтобы добавить воду</string>
+    
+    <string name="welcome">Добро пожаловать в Трекер Воды!</string>
+    <string name="onboarding_title_1">Оставайтесь Гидратированными</string>
+    <string name="onboarding_desc_1">Вода необходима для вашего здоровья. Она помогает регулировать температуру тела, транспортировать питательные вещества и поддерживать функции органов.</string>
+    <string name="onboarding_title_2">Персональная Цель</string>
+    <string name="onboarding_desc_2">Ваше ежедневное потребление воды зависит от вашего веса и уровня физической активности. Давайте рассчитаем вашу идеальную цель!</string>
+    <string name="onboarding_title_3">Ваша Информация</string>
+    <string name="weight_kg">Вес (кг)</string>
+    <string name="activity_level">Уровень Активности</string>
+    <string name="activity_low">Низкий</string>
+    <string name="activity_moderate">Средний</string>
+    <string name="activity_high">Высокий</string>
+    <string name="activity_low_desc">Мало или нет упражнений</string>
+    <string name="activity_moderate_desc">Упражнения 3-5 дней/неделю</string>
+    <string name="activity_high_desc">Интенсивные упражнения 6-7 дней/неделю</string>
+    <string name="next">Далее</string>
+    <string name="finish">Завершить</string>
+    <string name="skip">Пропустить</string>
+    <string name="your_daily_goal">Ваша дневная цель:</string>
+    <string name="based_on_calculation">На основе вашего веса и уровня активности</string>
+    <string name="benefit_temperature">Регулирует температуру</string>
+    <string name="benefit_nutrients">Транспортирует питательные вещества</string>
+    <string name="benefit_organs">Поддерживает здоровье органов</string>
+    <string name="hours_label">часов</string>
+    <string name="hour_label">час</string>
+    <string name="drag_to_adjust">Перетащите для регулировки уровня воды</string>
+    <string name="personal_info">Личная Информация</string>
+    <string name="weight">Вес</string>
+    <string name="edit_weight">Изменить Вес</string>
+    <string name="edit">Изменить</string>
+    <string name="low">Низкий</string>
+    <string name="moderate">Средний</string>
+    <string name="high">Высокий</string>
+    <string name="stay_hydrated">Оставайтесь Гидратированными</string>
+    <string name="ml_unit">мл</string>
+    <string name="kg_unit">кг</string>
+    <string name="time_format">%d:00</string>
+</resources>
